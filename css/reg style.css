@@ -1,0 +1,27 @@
+h1 {
+    color:rgb(70, 97, 57);
+    background-color: rgb(46, 179, 139);
+    font-size: 25px;
+    text-align: center;
+    
+    }
+    a {
+    font-size: 25px;
+    text-decoration: none;
+    
+    }
+p {  
+    
+color:rgb(16, 39, 7);
+
+background-color: rgb(235, 118, 190);
+
+
+
+}
+
+input[placeholder] {
+    background-color: chartreuse;
+}
+
+
